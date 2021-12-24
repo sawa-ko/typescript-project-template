@@ -1,0 +1,22 @@
+# misc
+node_modules
+.vs/
+.idea/
+*.iml
+tsconfig.tsbuildinfo
+yarn-error.log
+temp
+
+# Environment variables
+.DS_Store
+
+# Builds
+dist
+*.js
+.env
+.yarn/install-state.gz
+.yarn/cache
+
+# Ignore package locks
+yarn.lock
+package-lock.json

@@ -1,0 +1,5 @@
+{
+  "extends": "@sapphire/ts-config",
+  "compilerOptions": { "baseUrl": "./src", "outDir": "./dist" },
+  "include": ["./src/**/*"]
+}
